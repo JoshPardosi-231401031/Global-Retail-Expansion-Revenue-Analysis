@@ -2,11 +2,11 @@
 
 A strategic Tableau dashboard built to support **C-suite decision-making** — analyzing online retail transaction data to forecast revenue, identify high-value customers, evaluate geographic performance, and pinpoint optimal regions for global expansion.
 
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/shared/BC8ZTH5FR?:display_count=n&:origin=viz_share_link)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/josh.pardosi/viz/GlobalRetailExpansionRevenueAnalysis/Question4)
 
 ---
 
-🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/shared/R57WQRKWG?:display_count=n&:origin=viz_share_link)**
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/josh.pardosi/viz/GlobalRetailExpansionRevenueAnalysis/Question4)**
 
 ---
 
